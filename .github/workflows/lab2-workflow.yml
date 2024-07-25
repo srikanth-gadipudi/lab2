@@ -9,7 +9,7 @@ on:
         type: boolean
       custom_message:
         description: 'Enter a custom message'
-        required: false
+        required: true
         type: string
 
 
